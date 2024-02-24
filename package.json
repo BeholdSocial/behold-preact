@@ -1,5 +1,5 @@
 {
-  "name": "behold-preact",
+  "name": "@behold/preact",
   "version": "0.1.0",
   "description": "The official Behold Widget for Preact",
   "keywords": [
