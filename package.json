@@ -1,6 +1,6 @@
 {
   "name": "@behold/preact",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "The official Behold Widget for Preact",
   "keywords": [
     "Behold",
